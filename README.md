@@ -1,7 +1,7 @@
 # simpleListingInIOS 
 
 ## Description
- - simple listing using iOS
+ - simple collectionView and tableView listing using iOS
 
 ## Install
  - change repo master to dev then clone
